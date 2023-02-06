@@ -1,0 +1,8 @@
+setup.py
+lavis/__init__.py
+my_package/__init__.py
+my_package/model.py
+my_packages.egg-info/PKG-INFO
+my_packages.egg-info/SOURCES.txt
+my_packages.egg-info/dependency_links.txt
+my_packages.egg-info/top_level.txt
